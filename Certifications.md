@@ -30,4 +30,12 @@ It's ideal for beginners looking to start a career in cloud computing.
 COMPTIA SECURITY+
 </p>
 
+Overview:
 
+<!-- EXAMPLE OF HIDDEN COMMENT -->
+
+<p align="center">
+CsYA+
+</p>
+
+Overview:
