@@ -38,4 +38,4 @@ Overview:
 CsYA+
 </p>
 
-Overview:
+Overview: The CompTIA Cybersecurity Analyst (CySA+) certification is designed for cybersecurity professionals responsible for detecting, preventing, and responding to incidents through ongoing security monitoring.
