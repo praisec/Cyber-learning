@@ -30,7 +30,7 @@ It's ideal for beginners looking to start a career in cloud computing.
 COMPTIA SECURITY+
 </p>
 
-Overview:
+Overview: The CompTIA Security+ certification is a globally recognized credential that verifies the foundational skills needed to perform essential security functions and build a career in IT security.
 
 <!-- EXAMPLE OF HIDDEN COMMENT -->
 
