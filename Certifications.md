@@ -35,6 +35,12 @@ Overview: The CompTIA Security+ certification is a globally recognized credentia
 - YouTube practice test (https://www.youtube.com/playlist?list=PLIsEyzUoUVmBJk0ZqxExnII_3Ac38Coet , https://www.youtube.com/playlist?list=PL0hT6hgexlYwNK8DvXvUlDb63xB0zfFeN , https://www.youtube.com/playlist?list=PLNoUpEKd6YvAWJFvpI4HPUEoX5h565tLE)
 - Youtube practice labs(https://www.youtube.com/playlist?list=PLZ4vdb01vqptlGwCETVTFR-l3SV1UHtQv)
 
+<ins>Exam Day Tips</ins>
+
+- What to bring and expect on exam day: have your ID ready to show for verification and be sure to be in a quiet place that complies with the rules.
+- Managing time during the exam: Join the exam 30 minutes before the time to do a run-through test for your computer and be conscious of your time.
+- Techniques for handling difficult questions: Use the process of elimination for confusing questions.
+
 <!--CYSA -->
 
 <p align="center">
