@@ -1,5 +1,5 @@
 # Cyber-learning
-# Steps To Pass Cybersecurity Certifications
+# Steps To Consider To Pass Cybersecurity Certifications
 
 <p align="center">
 AZURE 900
