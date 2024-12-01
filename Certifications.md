@@ -47,11 +47,11 @@ Overview: The CompTIA Security+ certification is a globally recognized credentia
  - Questions: Maximum of 90 questions.
 
 <ins>Study Materials For Security+:</ins>.
-- The official study guide (https://www.amazon.com/gp/product/1394211449/ref=asin_title?ie=UTF8&psc=1)
-- Professor Messer study guide(https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)
-- Jason Dion Udemy course(https://www.udemy.com/course/securityplus/?couponCode=BFCPSALE24)
-- Practice tests (https://www.examtopics.com/exams/comptia/sy0-701/)
-- Cyberkraft youtube practice(https://www.youtube.com/playlist?list=PLUkY1OVVHzVm5-xLHvVj8GI2y_nPrQBhS)
+- The official study guide: https://www.amazon.com/gp/product/1394211449/ref=asin_title?ie=UTF8&psc=1
+- Professor Messer study guide: https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/
+- Jason Dion Udemy course: https://www.udemy.com/course/securityplus/?couponCode=BFCPSALE24
+- Practice tests: https://www.examtopics.com/exams/comptia/sy0-701/
+- Cyberkraft youtube practice: https://www.youtube.com/playlist?list=PLUkY1OVVHzVm5-xLHvVj8GI2y_nPrQBhS
 - Youtube playlist prep questions 1: https://www.youtube.com/playlist?list=PLIsEyzUoUVmBJk0ZqxExnII_3Ac38Coet 
 - Youtube playlist prep questions 2: https://www.youtube.com/playlist?list=PL0hT6hgexlYwNK8DvXvUlDb63xB0zfFeN 
 - Youtube playlist prep questions 3: https://www.youtube.com/playlist?list=PLNoUpEKd6YvAWJFvpI4HPUEoX5h565tLE
