@@ -26,7 +26,7 @@ Overview: This a certification that covers
 
 <ins>Exam Day Tips</ins>
 
-What to bring and expect on exam day: Have 2 forms of ID ready to show for verification, and be sure to get to your venue in 30 minutes. 
+- What to bring and expect on exam day: Have 2 forms of ID ready to show for verification, and be sure to get to your venue in 30 minutes. 
 - Managing time during the exam: You have 2 hours for 100 questions, so take your time while answering them.
 - Techniques for handling difficult questions: Use the process of elimination for confusing questions.
 - PSA: You CANNOT go back to your questions once you answer a question so make sure you are sure of the answer before moving forward.  
