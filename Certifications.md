@@ -12,6 +12,26 @@ CERTIFIED IN CYBERSECURITY
 
 Overview: This a certification that covers
 
+<ins>Format for Exam:</ins>.
+ 
+ - Time: 2 hours.
+ 
+ - Questions: 100 questions.
+   
+<ins>Study Materials For Certified in Security:</ins>.
+- ISC2: https://www.isc2.org/landing/1mcc
+- Career employer practice questions: https://careeremployer.com/test-prep/practice-tests/isc2-cc-practice-test/
+- Youtube playlist prep questions 1: https://www.youtube.com/watch?v=0F3QP2Bt1KI&list=PL0hT6hgexlYw-k6GxQf_DIAPdc96T2MP-
+- Youtube playlist prep questions 2: https://www.youtube.com/playlist?list=PLsfuhEym5Akw3nWaix18OGE1GAO3l31rz
+
+<ins>Exam Day Tips</ins>
+
+What to bring and expect on exam day: Have 2 forms of ID ready to show for verification, and be sure to get to your venue in 30 minutes. 
+- Managing time during the exam: You have 2 hours for 100 questions, so take your time while answering them.
+- Techniques for handling difficult questions: Use the process of elimination for confusing questions.
+- PSA: You CANNOT go back to your questions once you answer a question so make sure you are sure of the answer before moving forward.  
+
+
 <!-- SECURITY+ -->
 
 <p align="center">
@@ -32,8 +52,10 @@ Overview: The CompTIA Security+ certification is a globally recognized credentia
 - Jason Dion Udemy course(https://www.udemy.com/course/securityplus/?couponCode=BFCPSALE24)
 - Practice tests (https://www.examtopics.com/exams/comptia/sy0-701/)
 - Cyberkraft youtube practice(https://www.youtube.com/playlist?list=PLUkY1OVVHzVm5-xLHvVj8GI2y_nPrQBhS)
-- YouTube practice test (https://www.youtube.com/playlist?list=PLIsEyzUoUVmBJk0ZqxExnII_3Ac38Coet , https://www.youtube.com/playlist?list=PL0hT6hgexlYwNK8DvXvUlDb63xB0zfFeN , https://www.youtube.com/playlist?list=PLNoUpEKd6YvAWJFvpI4HPUEoX5h565tLE)
-- Youtube practice labs(https://www.youtube.com/playlist?list=PLZ4vdb01vqptlGwCETVTFR-l3SV1UHtQv)
+- Youtube playlist prep questions 1: https://www.youtube.com/playlist?list=PLIsEyzUoUVmBJk0ZqxExnII_3Ac38Coet 
+- Youtube playlist prep questions 2: https://www.youtube.com/playlist?list=PL0hT6hgexlYwNK8DvXvUlDb63xB0zfFeN 
+- Youtube playlist prep questions 3: https://www.youtube.com/playlist?list=PLNoUpEKd6YvAWJFvpI4HPUEoX5h565tLE
+- Youtube practice labs: https://www.youtube.com/playlist?list=PLZ4vdb01vqptlGwCETVTFR-l3SV1UHtQv
 
 <ins>Exam Day Tips</ins>
 
@@ -67,9 +89,10 @@ It's ideal for beginners looking to start a career in cloud computing.
  - Questions: 40 to 60.
 
 <ins>Study Materials For Azure 900:</ins>.
-- Microsoft Learn (https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
-- Practice tests (https://www.passnexam.com/)
-- YouTube practice test (https://www.youtube.com/playlist?list=PL0AYtrUw-NRT-1Y5412md8lZZkQitiTB9 , https://www.youtube.com/watch?v=8n-kWJetQRk&t=649s)
+- Microsoft Learn: https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification
+- Practice tests: https://www.passnexam.com/
+-  Youtube playlist prep questions 1: https://www.youtube.com/playlist?list=PL0AYtrUw-NRT-1Y5412md8lZZkQitiTB9
+-  Youtube playlist prep questions 2: https://www.youtube.com/watch?v=8n-kWJetQRk&t=649s 
 
 <ins>Exam Day Tips</ins>
 
