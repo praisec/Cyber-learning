@@ -76,11 +76,20 @@ Overview: The CompTIA Cybersecurity Analyst (CySA+) certification is designed fo
  - Time: 165 minutes.
  
  - Questions: Maximum of 85 questions.
+ - PSA: Performance based questions(PBQ) is between 3-8 
 
 <ins>Study Materials For CYSA+:</ins>.
 - The official study guide: https://a.co/d/76kzXIH
-- https://www.youtube.com/watch?v=e68dVTppuT8&list=PLNoUpEKd6YvDaWJm6ktiSKYYcNVXXri9-
-- https://www.youtube.com/watch?v=xT6afzxvkJ0&list=PLIsEyzUoUVmDT_yH46U1vEmU3oD1pFwz_
+- Jasion Dion Udemy: https://www.udemy.com/course/comptia-cysa-003/?srsltid=AfmBOoom_ImrFYD0EJsihK7Ui6orfq6rwQqe3KVgVc_OoeLJxAiwY0bw&couponCode=ST18MT12125CUS
+- Youtube playlist prep questions 1: https://www.youtube.com/watch?v=e68dVTppuT8&list=PLNoUpEKd6YvDaWJm6ktiSKYYcNVXXri9-
+- Youtube playlist prep questions 2: https://www.youtube.com/watch?v=xT6afzxvkJ0&list=PLIsEyzUoUVmDT_yH46U1vEmU3oD1pFwz_
+
+<ins>Exam Day Tips</ins>
+
+- What to bring and expect on exam day: have your ID ready to show for verification and be sure to be in a quiet place that complies with the rules.
+- Managing time during the exam: Join the exam 30 minutes before the time to do a run-through test for your computer and be conscious of your time.
+- Techniques for handling difficult questions: Use the process of elimination for confusing questions.
+- For PBQs: If you realize you are spending too much time on a PBQ question, save it and come back
 
 
 <!-- AZURE 900 -->
