@@ -71,6 +71,17 @@ CsYA+
 
 Overview: The CompTIA Cybersecurity Analyst (CySA+) certification is designed for cybersecurity professionals responsible for detecting, preventing, and responding to incidents through ongoing security monitoring.
 
+<ins>Format for Exam:</ins>.
+ 
+ - Time: 165 minutes.
+ 
+ - Questions: Maximum of 85 questions.
+
+<ins>Study Materials For CYSA+:</ins>.
+- The official study guide: https://a.co/d/76kzXIH
+- https://www.youtube.com/watch?v=e68dVTppuT8&list=PLNoUpEKd6YvDaWJm6ktiSKYYcNVXXri9-
+- https://www.youtube.com/watch?v=xT6afzxvkJ0&list=PLIsEyzUoUVmDT_yH46U1vEmU3oD1pFwz_
+
 
 <!-- AZURE 900 -->
 
